@@ -8,6 +8,9 @@
 
 ---
 
+As Resoluções dos exercícios estão dentro da Pasta base/src, para que o exercício funcione mova os 3 arquivos contidos em uma das
+pastas de exercícios (App.js, index.css e index.js) para a pasta src.
+
 Preencha a checklist para fazer os exercícios:
 
 -   [x] Fazer o fork do repositório para sua conta
