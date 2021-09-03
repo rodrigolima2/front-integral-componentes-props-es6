@@ -8,7 +8,7 @@
 
 ---
 
-As Resoluções dos exercícios estão dentro da Pasta base/src, para que o exercício funcione mova os 3 arquivos (App.js, index.css e index.js) contidos em uma das pastas de exercícios para a pasta src.
+As Resoluções dos exercícios estão dentro da Pasta base/src, para que o exercício funcione mova os 2 arquivos (App.js, index.css) contidos em uma das pastas de exercícios para a pasta src.
 
 Preencha a checklist para fazer os exercícios:
 
